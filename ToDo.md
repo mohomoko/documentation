@@ -33,4 +33,21 @@
     b. [103.8 Basic file editing ](https://linux1st.com/1038-basic-file-editing.html)
     c. [105.2 Customize or write simple scripts](https://linux1st.com/1052-customize-or-write-simple-scripts.html)
 
-- [ ] ChatGPT
+- [x] ChatGPT
+
+| Day    | Focus                                  | Sources          | Activities                                                                     | Output                             |                 |
+| ------ | -------------------------------------- | ---------------- | ------------------------------------------------------------------------------ | ---------------------------------- | --------------- |
+| **1**  | Intro to CLI, Shell, Terminal          | (1), (3), (4)    | Read basics of CLI, differences between shell/terminal, try `pwd`, `ls`, `cd`. | No                                 |                 |
+| **2**  | File/Directory Navigation & Management | (1), (2), (5)    | Practice `mkdir`, `rmdir`, `cp`, `mv`, `rm`.                                   | Homework PDF #1                    |                 |
+| **3**  | Text Viewing & Editing                 | (2), (14)        | Learn `cat`, `less`, `head`, `tail`, intro to `vim/vi`.                        | No                                 |                 |
+| **4**  | Users, Permissions & Processes         | (2), (5), (6)    | Practice `whoami`, `id`, `ps`, `kill`, `chmod`, `chown`.                       | No                                 |                 |
+| **5**  | Redirection & Pipes                    | (1), (2), (4)    | `>`, `>>`, `<`, `                                                              | `, `grep`, `wc`. Combine commands. | Homework PDF #2 |
+| **6**  | **Review + Exam #1**                   | All above        | Short quiz + practical task (navigate, manage files, pipes).                   | Exam PDF                           |                 |
+| **7**  | Bash Scripting Basics                  | (2), (7), (10)   | Write first script, `#!/bin/bash`, variables, `echo`, run script.              | No                                 |                 |
+| **8**  | Conditionals & Loops in Bash           | (2), (7), (9)    | `if/else`, `for`, `while`, `case`.                                             | Homework PDF #3                    |                 |
+| **9**  | Functions & Arguments in Scripts       | (2), (8)         | Pass arguments `$1`, `$2`, create reusable functions.                          | No                                 |                 |
+| **10** | Practical Automation Scripts           | (2), (11), (15)  | Automate backups, logs cleanup.                                                | Homework PDF #4                    |                 |
+| **11** | PowerShell Basics                      | (16), (17), (18) | Compare with Bash, run `Get-Help`, `Get-Command`.                              | No                                 |                 |
+| **12** | PowerShell Scripting                   | (19), (20), (21) | Variables, loops, pipeline in PowerShell, run script.                          | No                                 |                 |
+| **13** | **Review + Final Exam**                | All              | Quiz mixing Bash + PowerShell scripting tasks.                                 | Exam PDF                           |                 |
+
