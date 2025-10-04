@@ -3,6 +3,7 @@
 ## Find Sources
 
 - [x] Big Online databases (Like edX, Harvard, ...)
+
   1. [W3 school](https://www.w3schools.com/whatis/whatis_cli.asp)
   2. [G4G](https://www.geeksforgeeks.org/linux-unix/introduction-linux-shell-shell-scripting/)
   3. `*`[CLI Basics for Developers](https://daily.dev/blog/cli-basics-for-developers)
@@ -23,10 +24,13 @@
   18. [Introduction to scripting in PowerShell](https://learn.microsoft.com/en-us/training/modules/script-with-powershell/)
   19. [Get started with Windows PowerShell](https://learn.microsoft.com/en-us/training/paths/get-started-windows-powershell/)
   20. 🤓 [Mega Collection of PowerShell Scripts](https://github.com/fleschutz/PowerShell)
-  22. 
+
 - [x] Jadi in Youtube
+
   1. [Jadi LPIC](https://linux1st.com/archives.html)
+
     a. [103.1 Work on the command line ](https://linux1st.com/1031-work-on-the-command-line.html)
     b. [103.8 Basic file editing ](https://linux1st.com/1038-basic-file-editing.html)
     c. [105.2 Customize or write simple scripts](https://linux1st.com/1052-customize-or-write-simple-scripts.html)
+
 - [ ] ChatGPT
