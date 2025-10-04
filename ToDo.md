@@ -2,6 +2,6 @@
 
 ## Find Sources
 
-- [ ] ChatGPT
+- [x] Big Online databases (Like edX, Harvard, ...)
 - [ ] Jadi in Youtube
-- [ ] Big Online databases (Like edX, Harvard, ...)
+- [ ] ChatGPT
